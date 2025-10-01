@@ -6,6 +6,10 @@ A comprehensive machine learning project that predicts house prices based on var
 ![Machine Learning](https://img.shields.io/badge/ML-Regression-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## 🌐 See the Live Demo
+
+**Try the app now!** 👉 <a href="https://house-price-estimator.streamlit.app/" target="_blank">https://house-price-estimator.streamlit.app/</a>
+
 ---
 
 ## 📝 Project Description
@@ -356,21 +360,11 @@ This project is open source and available under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset: King County House Sales
 - Inspired by real-world real estate valuation challenges
 - Built as a comprehensive ML portfolio project
 
----
-
-## 📞 Support
-
-For questions or issues:
-1. Check the [HOW_TO_RUN.md](HOW_TO_RUN.md) guide
-2. Review the Jupyter notebook for detailed explanations
-3. Try the interactive web apps for hands-on experience
-
----
 
 **⭐ If you found this project helpful, please give it a star!**
